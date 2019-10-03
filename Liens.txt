@@ -3,3 +3,6 @@ Liste de sites web .... :
 
 http://noderedguide.com/ 			[ ]
 https://nodered.org/docs/getting-started/	[ ]
+
+// datasheet raspi cm3 
+https://www.raspberrypi.org/documentation/hardware/computemodule/datasheets/rpi_DATA_CM_2p0.pdf
